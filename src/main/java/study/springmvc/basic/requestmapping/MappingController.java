@@ -1,4 +1,4 @@
-package study.springmvc.basic;
+package study.springmvc.basic.requestmapping;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
